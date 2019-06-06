@@ -31,7 +31,7 @@ $(".image-view-maintain").removeClass("image-view-maintain");
 
 基于原来的方案，将脚本打包成Chrome浏览器插件，就可以解决每次都需要刷新的问题。
 
-1、将扩展程序下载到本地电脑,下载地址:https://github.com/milovetingting/Plugin/tree/master/plugin.rar
+1、将扩展程序下载到本地电脑,下载地址:<https://raw.githubusercontent.com/milovetingting/Plugin/master/plugin.rar>
 
 下载回来后，选择解压到当前文件夹，会有一个plugin的文件夹。
 
